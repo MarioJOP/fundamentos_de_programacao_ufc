@@ -1,2 +1,2 @@
-# fundamentos_de_programacao_ufc
+# Fundamentos de Programação
 Exercícios de fundamentos de programação UFC
