@@ -1,2 +1,2 @@
 # Fundamentos de Programação
-Aulas de fundamentos de programação UFC
+## Códigos das aulas de Fundamentos de Programação
